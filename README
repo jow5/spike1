@@ -1,1 +1,20 @@
 # Getting started with node.js, railway.js, github and heroku
+
+http://shiftcommathree.com/articles/how-to-install-mongodb-on-os-x
+http://www.mongodb.org/display/DOCS/Quickstart+OS+
+
+http://railwayjs.com/#heroku
+
+http://devcenter.heroku.com/articles/node-js
+
+http://help.github.com/mac-set-up-git/
+
+http://code.google.com/p/git-osx-installer/downloads/list?can=3
+
+To start mongodb
+mongod --dbpath /usr/local/mongodb_data
+
+To run the app
+cd ~/src/spike1
+rw s 8888
+
